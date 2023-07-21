@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**RobertDS07/RobertDS07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>
+    <a href="https://robertdeveloper.com/">me</a> •
+    <a href="https://robertdeveloper.com/blog">blog</a> •
+    <a href="https://robertdeveloper.com/feedbacks">feedbacks</a> •
+    <a href="https://robertdeveloper.com/about">about</a> •
+    <a href="https://twitter.com/bugextreme1">twitter</a> •
+    <a href="https://www.linkedin.com/in/robert-d-262b0a129/">linkedin</a>
+  </samp>
+</p>
